@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodrigo-Rojo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python and doing the #100DaysOfCode
+- 👀 I’m interested in the Gym and being healthy and working in myself.
+- 🌱 I’m currently learning Python and doing the #100DaysOfCode also learning a english course.
 - 📫 How to reach me 
 sorioner@hotmail.com
 https://www.facebook.com/SoriOneR12/
