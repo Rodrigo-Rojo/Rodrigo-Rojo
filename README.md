@@ -2,8 +2,8 @@
 - 👀 I’m interested in the Gym and being healthy and working in myself.
 - 🌱 I’m currently learning Python and doing the #100DaysOfCode also learning a english course.
 - 📫 How to reach me 
-- sorioner@hotmail.com
-- https://twitter.com/SoriOner
+- rodrigo-rojo@outlook.com
+- Portfolio: https://rodrigo-rojo.github.io/Portfolio-Website/
 
 <!---
 Rodrigo-Rojo/Rodrigo-Rojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
